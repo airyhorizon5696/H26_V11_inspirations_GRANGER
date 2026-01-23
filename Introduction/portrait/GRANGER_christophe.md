@@ -5,7 +5,7 @@
 
 
 ## **Intérêts dans le multimedia**
-J'aime particulièrement le design graphique, tout ce que touche au logiciel de montage photo comme photshop, jusqu'a a la création de contenue en ligne, 
+- J'aime particulièrement le design graphique, tout ce que touche au logiciel de montage photo comme photshop, jusqu'a a la création de contenue en ligne, 
 le making off de projet/film m'intéresse.Le codage web me pationne beaucoup et 
 j'ai aussi hâte de faire du montage 3d a l'aide de blender ou d'autre logiciel de ce genre.
 
