@@ -3,7 +3,7 @@
 
 ### Lieux de mise en exposition
 - L'exposition se déroule au Galerie de l’Université de Montréal
-![moi devant la galerie](/media/moi_devant_expo.JPG)
+![moi devant la galerie](media/moi_devant_expo.JPG)
 *Moi et Jo devant l'entrée de l'exposition - Pris par Noah-C-Y*
 
 ### Type d’exposition
