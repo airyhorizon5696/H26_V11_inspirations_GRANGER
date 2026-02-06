@@ -33,6 +33,8 @@
  ![vue d'ensemble](media/vue_ensemble_oeuvre.JPG)
  *Vu d'emsemble de l'oeuvre de Marion Schneider*
 ### Mise en espace 
+- Un dessin représentant l'oeuvre dans la piece:
+
 ![photo du croquis](media/croquis.jpg)
 *Croquis de terre commune, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même*
 
