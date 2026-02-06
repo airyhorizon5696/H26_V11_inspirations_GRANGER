@@ -25,13 +25,16 @@
 
 ### Description de l'œuvre ou du dispositif
 ![cartel](https://github.com/airyhorizon5696/H26_V11_inspirations_GRANGER/blob/main/Galerie_UDEM/media/cartel.JPG?raw=true)
+*Cartel de l'oeuvre de Marion Schneider*
 
 ### Type d’installation 
 -  Immersive et interactive
  
  ![vue d'ensemble](https://github.com/airyhorizon5696/H26_V11_inspirations_GRANGER/blob/main/Galerie_UDEM/media/vue_ensemble_oeuvre.JPG?raw=true)
+ *Vu d'emsemble de l'oeuvre de Marion Schneider*
 ### Mise en espace 
 ![photo du croquis](https://github.com/airyhorizon5696/H26_V11_inspirations_GRANGER/blob/main/Galerie_UDEM/media/croquis.jpg?raw=true)
+**
 
 ### Composante et technique :
 - Un panneau qui est relié au pc et a un bandeau, qui prend en compte les ondes alpha et les affiches sur le panneau. Les images projeté sur le mur change en fonction des ondes qui sont projeté au tableau, donc dépendant de la personne qui porte le bandeau
@@ -40,6 +43,7 @@
 -  Murs, structure en métal en soutient pour les éclairages,un banc, écrans pour les ondes alpha, un ordinateur, un capteur d'onde alpha et un projecteur
   
 ![photo lumière](https://github.com/airyhorizon5696/H26_V11_inspirations_GRANGER/blob/main/Galerie_UDEM/media/eclairage.JPG?raw=true)
+*Légende de l'image*
 ![photo du projecteur](https://github.com/airyhorizon5696/H26_V11_inspirations_GRANGER/blob/main/Galerie_UDEM/media/projecteur.JPG?raw=true)
 ![photo du croquis](https://github.com/airyhorizon5696/H26_V11_inspirations_GRANGER/blob/main/Galerie_UDEM/media/ecran_alpha.jpg?raw=true)
 
