@@ -34,7 +34,7 @@
  *Vu d'emsemble de l'oeuvre de Marion Schneider*
 ### Mise en espace 
 ![photo du croquis](media/croquis.jpg)
-*Croquis de terre commune, montrant le plan, les lumières, le projecteur et tout les autres éléments de l'oeuvre. - réaliser par moi même*
+*Croquis de terre commune, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même*
 
 ### Composante et technique :
 - Un panneau qui est relié au pc et a un bandeau, qui prend en compte les ondes alpha et les affiches sur le panneau. Les images projeté sur le mur change en fonction des ondes qui sont projeté au tableau, donc dépendant de la personne qui porte le bandeau
