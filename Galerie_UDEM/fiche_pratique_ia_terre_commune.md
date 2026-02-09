@@ -45,7 +45,7 @@
 -  Murs, structure en métal en soutient pour les éclairages,un banc, écrans pour les ondes alpha, un ordinateur, un capteur d'onde alpha et un projecteur
   
 ![photo lumière](media/eclairage.JPG)
-* La structure de métale et les lumières - photo prise par moi*
+*La structure de métale et les lumières - photo prise par moi*
 ![photo du projecteur](media/projecteur.JPG)
 *Projecteur, qui projette la réaction des ondes alpha en image sur le mur - photo prise par moi*
 ![photo du croquis](media/ecran_alpha.jpg)
