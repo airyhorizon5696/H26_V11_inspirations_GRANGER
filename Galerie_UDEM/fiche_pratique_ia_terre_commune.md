@@ -36,6 +36,7 @@
 - Un dessin représentant l'oeuvre dans la piece:
 
 ![photo du croquis](media/croquis.jpg)
+
 *Croquis de terre commune, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même*
 
 ### Composante et technique :
