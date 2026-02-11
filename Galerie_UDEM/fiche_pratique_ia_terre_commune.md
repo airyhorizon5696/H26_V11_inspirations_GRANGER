@@ -43,7 +43,12 @@
 - Un panneau qui est relié au pc et a un bandeau, qui prend en compte les ondes alpha et les affiches sur le panneau. Les images projeté sur le mur change en fonction des ondes qui sont projeté au tableau, donc dépendant de la personne qui porte le bandeau
 
 ### Éléments nécessaires à la mise en exposition 
--  Murs, structure en métal en soutient pour les éclairages,un banc, écrans pour les ondes alpha, un ordinateur, un capteur d'onde alpha et un projecteur
+-  Murs
+- Structure en métal en soutient pour les éclairages
+- Un banc,
+- Écrans pour les ondes alpha,
+- Un ordinateur, un capteur d'onde alpha
+- Un projecteur
   
 ![photo lumière](media/eclairage.JPG)
 *La structure de métale et les lumières - photo prise par moi*
@@ -57,5 +62,6 @@
 - Mon expérience est asser mitiger, je m'attendais a quelque chose de beaucoup plus gros, et probablement plus pousser en terme d'intelligence artificiel, je pensais que j'allais voir des outils / des nouveaux moyen d'utiliser l'ia que je n'avais jamais vu auparavant, en vrai, ou en ligne sur les réseaux sociaux.
 - Sinon ce qui ma le plus plu, c'est l'exposition que j'ai choisis, car je n'avais jamais vraiment entendue parler des ondes alpha et de les utiliser pour changer des images.
 - En conclusion je n'es pas vraiment aimer la sortie mais il y avait quelque point qui était intéressant.
+
  ![content d'etre la](media/content_detre_la.jpg)
 *Rosalia qui essaye l'oeuvre de Marion Schneider avec le bandeau sur la tête - photo prise par moi même*
