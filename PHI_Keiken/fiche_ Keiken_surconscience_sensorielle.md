@@ -25,19 +25,20 @@
 
 ### Description de l'œuvre ou du dispositif
 ![cartel](media/cartel.jpg)
+
 *Cartel de l'oeuvre Alexandre Boyes - photo prise par moi même*
 
 ### Type d’installation 
 -  Immersive et interactive
- 
- ![vue d'ensemble](media/vue_ensemble_oeuvre.JPG)
+
+ ![vue d'ensemble](media/vue_ensemble.jpg)
  *Vu d'emsemble de l'oeuvre de Alexandre Boyes*
 ### Mise en espace 
 - Un dessin représentant l'oeuvre dans la piece:
 
 ![photo du croquis]()
 
-*Spirit Systems of Soft Knowing, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même*
+*Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même*
 
 ### Composante et technique :
 - Des projecteurs, les images des projecteurs sont relié au son et au vibration, par exemple, quand un gros son, comme le chant d'une baleine, les vibration vont êtres plus forte.
@@ -51,13 +52,21 @@
 - Un vibrateur resemblant a une carapace de tortu a mettre sur son ventre
   
 ![photo "lit"](media/vue_ensemble_lit.jpg)
+
 *La structure de métale et les lumières - photo prise par moi*
+
 ![photo du projecteur](media/projecteur.jpg)
+
 *Projecteur, qui projette les images imersif sur les murs - photo prise par moi*
+
 ![photo du croquis](media/procéder_technique_vibrateur.jpg)
+
 *L'objet en silicone a mettre sur son ventre, qui réagis avec des vibrations en même temps que les son du casque - photo prise par moi*
-![photo des écouteurs](media/Image(13).jpg)
-*PÉcouteurs et socle - photo prise par moi*
+
+
+![socle et casque ](media/socle_casque.jpg)
+
+*Le socle suportant le casque d'écoute et la patente a mettre sur son ventre - photo prise par moi*
 
 
 ### Mon expérience
