@@ -4,6 +4,7 @@
 ### Lieux de mise en exposition
 - L'exposition se déroule a la fondatio Phi au 465, rue Saint-Jean pour être plus exacte.
 ![moi devant la galerie](media/moi_devant_exposition.jpg)
+
 *moi et un inconnu devant l'expositon - photo prise par M-G*
 
 ### Type d’exposition
@@ -32,7 +33,8 @@
 -  Immersive et interactive
 
  ![vue d'ensemble](media/vue_ensemble.jpg)
- *Vu d'emsemble de l'oeuvre de Alexandre Boyes*
+ 
+*Vu d'emsemble de l'oeuvre de Alexandre Boyes*
 ### Mise en espace 
 - Un dessin représentant l'oeuvre dans la piece:
 
