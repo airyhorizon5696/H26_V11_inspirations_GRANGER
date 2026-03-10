@@ -25,6 +25,8 @@
 -  2024
 
 ### Description de l'œuvre ou du dispositif
+- En premier lieu, lorsqu'on arrive dans la salle, un/une employé(e)s nous indique de nous installer sur le "lit" et on nous met un casque sur les oreilles et la carapace de tortue em silicone qui vibre sur le ventre. Dès que c'est fait on est directement immersé dans l'univers de l'oeuvre, les projections sur le mur qui resssemble a des vagues, les sons qui ressemble a des chants de baleines. Durant ses 2 minutes (ou plus si vous décider de rester plus longtemps) les projections sur le mur bleu vont enomrément se déplacer, mais lentement. Les vibrations vont suivre le ryhtmes des sons pour te transporter dans un autre monde qui n'est pas vraiment descrivable, car je pense qu'il faut vraiment le vivre pour le comprendre.
+
 ![cartel](media/cartel.jpg)
 
 *Cartel de l'oeuvre Alexandre Boyes - photo prise par moi même*
