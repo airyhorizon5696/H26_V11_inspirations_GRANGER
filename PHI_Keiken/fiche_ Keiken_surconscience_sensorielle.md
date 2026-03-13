@@ -40,7 +40,7 @@
 ### Mise en espace 
 - Un dessin représentant l'oeuvre dans la piece:
 
-![photo du croquis]()
+![photo du croquis](media/croquis.jpg)
 
 *Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même*
 
@@ -63,7 +63,7 @@
 
 *Projecteur, qui projette les images imersif sur les murs - photo prise par moi*
 
-![photo du croquis](media/croquis.jpg)
+![photo du croquis](media/procéder_technique_vibrateur.jpg)
 
 *L'objet en silicone a mettre sur son ventre, qui réagis avec des vibrations en même temps que les son du casque - photo prise par moi*
 
