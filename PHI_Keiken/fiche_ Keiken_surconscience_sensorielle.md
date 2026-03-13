@@ -5,7 +5,7 @@
 - L'exposition se déroule a la fondatio Phi au 465, rue Saint-Jean pour être plus exacte.
 ![moi devant la galerie](media/moi_devant_exposition.jpg)
 
-*moi et un inconnu devant l'expositon - photo prise par M-G*
+> moi et un inconnu devant l'expositon - photo prise par M-G
 
 ### Type d’exposition
 - Temporaire et intérieur. du 23 oct. au 8 mars 2026
