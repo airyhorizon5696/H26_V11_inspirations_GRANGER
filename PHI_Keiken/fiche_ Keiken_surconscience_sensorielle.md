@@ -29,20 +29,20 @@
 
 ![cartel](media/cartel.jpg)
 
-*Cartel de l'oeuvre Alexandre Boyes - photo prise par moi même*
+> Cartel de l'oeuvre Alexandre Boyes - photo prise par moi même
 
 ### Type d’installation 
 -  Immersive et interactive
 
  ![vue d'ensemble](media/vue_ensemble.jpg)
  
-*Vu d'emsemble de l'oeuvre de Alexandre Boyes*
+> Vu d'emsemble de l'oeuvre de Alexandre Boyes
 ### Mise en espace 
 - Un dessin représentant l'oeuvre dans la piece:
 
 ![photo du croquis](media/croquis.jpg)
 
-*Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même*
+> Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même
 
 ### Composante et technique :
 - Des projecteurs, les images des projecteurs sont relié au son et au vibration, par exemple, quand un gros son, comme le chant d'une baleine, les vibration vont êtres plus forte.
@@ -57,20 +57,20 @@
   
 ![photo "lit"](media/vue_ensemble_lit.jpg)
 
-*La structure de métale et les lumières - photo prise par moi*
+> La structure de métale et les lumières - photo prise par moi
 
 ![photo du projecteur](media/projecteur.jpg)
 
-*Projecteur, qui projette les images imersif sur les murs - photo prise par moi*
+> Projecteur, qui projette les images imersif sur les murs - photo prise par moi
 
 ![photo du croquis](media/procéder_technique_vibrateur.jpg)
 
-*L'objet en silicone a mettre sur son ventre, qui réagis avec des vibrations en même temps que les son du casque - photo prise par moi*
+> L'objet en silicone a mettre sur son ventre, qui réagis avec des vibrations en même temps que les son du casque - photo prise par moi
 
 
 ![socle et casque ](media/socle_casque.jpg)
 
-*Le socle suportant le casque d'écoute et la patente a mettre sur son ventre - photo prise par moi*
+> Le socle suportant le casque d'écoute et la patente a mettre sur son ventre - photo prise par moi
 
 
 ### Mon expérience
@@ -78,3 +78,6 @@
 - Ce qui ma le plus  plu c'est l'exposition que j'ai choisis car c'était la première fois que je fesait une expérience de ce genre, être complêtement ensevli par du son, coucher et une genre de carapace de tortu sur le ventre qui envoie des vibration au rytme des sons, tout ça avec des projections au mur qui rendais tout plus imersif.
 - En conclusion j'ai aimé ma sortie et je recommande.
 
+
+### Référence
+- https://phi.ca/fr/evenements/keiken-surconscience-sensorielle/?gbraid=0aaaaadfwfe2np8ygow8mnref-l4ac8sdf
