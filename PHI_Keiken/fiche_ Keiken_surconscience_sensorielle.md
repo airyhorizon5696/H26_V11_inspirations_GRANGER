@@ -63,7 +63,7 @@
 
 *Projecteur, qui projette les images imersif sur les murs - photo prise par moi*
 
-![photo du croquis](media/procéder_technique_vibrateur.jpg)
+![photo du croquis](media/croquis.jpg)
 
 *L'objet en silicone a mettre sur son ventre, qui réagis avec des vibrations en même temps que les son du casque - photo prise par moi*
 
