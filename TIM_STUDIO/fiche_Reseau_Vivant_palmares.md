@@ -17,10 +17,10 @@ photo de l'ensemble de l'installation dans le studio
 schéma de mise en espace (plantation ou implantation)
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
- 
+- j'ai vraiment eu du fun à jouer a ce jeu, le fait que ce sois en équipe et que se sois punitif pour tout le monde rajoute du challenge.
 ---
  
-## O.I.G.N.I.O.N
+## Mission décollage ( O.I.G.N.I.O.N )
 ### noms des créateurs et créatrices:
 Jad Saloumi, Ahmed Kaissoumi,  Thearylou Lach, Radhouane Kordan et Justin Montpetit
 
@@ -32,7 +32,7 @@ photo de l'ensemble de l'installation dans le studio
 schéma de mise en espace (plantation ou implantation)
 
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
-- j'ai vraiment eu du fun à jouer a ce jeu, le fait que ce sois en équipe et que se sois punitif pour tout le monde rajoute du challenge.
+-Malgtés le fait que c'était vraiment difficile de finir le jeux et que les contrôlle n'était pas préciser, je me suis quand même amuser a essayer d'esquiver les météorites et a me coordonner avec mes amis!
   
  
 ---
