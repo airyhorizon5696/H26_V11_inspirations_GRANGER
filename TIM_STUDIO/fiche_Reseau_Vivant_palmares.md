@@ -29,7 +29,7 @@ Jad Saloumi, Ahmed Kaissoumi,  Thearylou Lach, Radhouane Kordan et Justin Montpe
 
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
-![vue ensemble]()
+![vue ensemble](media/oignon_vue_ensemble.jpg)
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/oignon_src_site_oignon_plan_implantation_2d.png)
@@ -49,6 +49,7 @@ Yannick Chamberland, Benjamin Ferland et Walid Cheour
 
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
+![vue d'ensemble ](media/symbiose_vue_ensemble.jpg)
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/symbiose_src_site_symbiose_plan_implantation_2d.webp)
@@ -67,7 +68,7 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani et Rafael Ang
 
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
-![vue ensemble arbre en arbre]()
+![vue ensemble arbre en arbre](media/arbrenarbre_vue_ensemble.jpg)
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/arbreenarbre_src_site_arbreenarbre_plan_implantation_2d.jpg)
