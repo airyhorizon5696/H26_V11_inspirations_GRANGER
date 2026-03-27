@@ -15,8 +15,8 @@ photo de l'ensemble de l'installation dans le studio
 ![photo de l'ensemble de l'installation dans le studio](media/vue_ensemble_terminal.jpg)
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
-![plantation2d]()
-![plantation3d]()
+![plantation2d](media/terminal_src_site_terminal_plan_implantation_2d.png)
+![plantation3d](media/terminal_src_site_terminal_plan_implantation_2d.png)
 > source des deux images --> 
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 - j'ai vraiment eu du fun à jouer a ce jeu, le fait que ce sois en équipe et que se sois punitif pour tout le monde rajoute du challenge.
