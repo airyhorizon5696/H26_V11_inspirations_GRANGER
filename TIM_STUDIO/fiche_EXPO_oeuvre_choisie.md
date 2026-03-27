@@ -1,12 +1,12 @@
-#Titre
+#Terminal
 ---
-­![photo cartel exposition]()
+­![photo cartel exposition](TIM_STUDIO/media/noah_et_moi_devant_expo.jpg)
  
 > photo cartel exposition, photo prise par Christophe Granger
  
 ---
 ## Lieu de mise d'exposition 
-__
+- Montmorency -  grand studio
  
 ---
 ![christophe devant le cartel]()
@@ -14,8 +14,8 @@ __
  
 ---
  
-![christophe devant le cartel](media/photo_devant_edifice.jpg)
-> Moi devant l'édifice , photo prise par étudiant de TIM Montmorency
+![christophe devant le cartel](media/devant_expo.jpg)
+> Moi devant le grand studio , photo prise par étudiant de TIM Montmorency
  
 ---
 ## Type d'exposition
@@ -29,7 +29,7 @@ Temporaire (intérieur)
  
 ---
 ## Titre de L'oeuvre choisi
-### titre
+### Terminal
 ![Totalité du cartel]()
 > Totalité du cartel, photo prise par Christophe Granger
  
@@ -99,7 +99,7 @@ Du  au 2026
 -Pouf gonflable
 -Podium code Qr
 ---
-![L'ensemble de l'oeuvre]()
+![L'ensemble de l'oeuvre](media/vue_ensemble_terminal.jpg)
 > L'ensemble de l'oeuvre, photo prise par Christophe Granger
  
 ---
@@ -112,8 +112,8 @@ Du  au 2026
  
 ---
 ## Ce qui m'a plus
-
+- ce qui ma le plus plu c'est le fait que se sois en équipe et que si quelqu'un rate sa punis toute l'équipe, en effet le fait que tout le monde dépendant des autres rend l'expérience plus acrocheuse et j'ai vraiment aimer ça.
  
 ---
 ## Ce que je ferais différement
- 
+- ce que je ferais de différent à leur place, sa serait surement de faire plus de niveau, aussi j'ajouterais une panoplie d'autre son pour rendre le tout plus imerserif et des objet différents pour pimenter les niveaux telle que des bonus que les joueurs peuvent récuperer ou des malus.
