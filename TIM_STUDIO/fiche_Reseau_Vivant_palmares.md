@@ -2,8 +2,8 @@
 ## Palmares exposition des étudiants TIM
 
 
-![moi devant l'expo avec noah]()
-![moi devant l'expo avec noah]()
+![moi devant l'expo avec noah](media/devant_expo.jpg)
+![moi devant l'expo avec noah](media/noah_et_moi_devant_expo.jpg)
  
 ## TERMINAL
 ### noms des créateurs et créatrices:
