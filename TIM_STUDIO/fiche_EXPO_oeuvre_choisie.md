@@ -9,10 +9,6 @@
 - Montmorency -  grand studio
  
 ---
-![christophe devant le cartel]()
-> Moi (Christophe Granger) devant le carte, photo prise par étudiant de TIM Montmorency
- 
----
  
 ![christophe devant le cartel](media/devant_expo.jpg)
 > Moi devant le grand studio , photo prise par étudiant de TIM Montmorency
