@@ -13,6 +13,7 @@
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
 ![photo de l'ensemble de l'installation dans le studio](media/vue_ensemble_terminal.jpg)
+> photo de l'ensemble de l'oeuvre terminal - photo prise par moi 
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/terminal_src_site_terminal_plan_implantation_2d.png)
@@ -30,6 +31,7 @@ Jad Saloumi, Ahmed Kaissoumi,  Thearylou Lach, Radhouane Kordan et Justin Montpe
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
 ![vue ensemble](media/oignon_vue_ensemble.jpg)
+> photo de l'ensemble de l'oeuvre oignon - photo prise par NCY
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/oignon_src_site_oignon_plan_implantation_2d.png)
@@ -50,6 +52,7 @@ Yannick Chamberland, Benjamin Ferland et Walid Cheour
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
 ![vue d'ensemble ](media/symbiose_vue_ensemble.jpg)
+> photo de l'ensemble de l'oeuvre symbiose - photo prise par NCY
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/symbiose_src_site_symbiose_plan_implantation_2d.webp)
@@ -69,13 +72,14 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani et Rafael Ang
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
 ![vue ensemble arbre en arbre](media/arbrenarbre_vue_ensemble.jpg)
+> photo de l'ensemble de l'oeuvre arbre en face
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/arbreenarbre_src_site_arbreenarbre_plan_implantation_2d.jpg)
 ![plantation3d](media/arbreenarbre_src_site_arbreenarbre_plan_implantation_3d.jpg)
 > source des deux images --> *https://mammouths.github.io/projet/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
- 
+ - au début j'ai eu beaucoup de difficulté a comprendre le mécanismes deriere, avant qu'on me le dise. J'ai trouver que c'était vraiment originale, c'était la premiere fois que je voyais ce genre de technologie, et même ajourdh'ui je trouve que l'aspect technologique qu'il on utiliser est fascinant.
 ---
  
 ## Quand les yeux se croisent
@@ -94,6 +98,7 @@ schéma de mise en espace (plantation ou implantation)
 ![plantation3d](media/quand_les_yeux_se_croise_src_site_quand_les_yeux_se_croise_plan_implantation_3d.jpg)
 > source des deux images --> *https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
+- j'ai trouver le sound effect incroyable et je me sentait vraiment imerser dans l'oeuvre, cependant j'ai trouver que le temps qu'on se positionne et le temps que notre oeil apparaisse sur l'écran quand même long et la qualité un peu mauvaise, mais overall c'était une très belle expérience
 ---
 ## Océan rouge
 ### noms des créateurs et créatrices:
