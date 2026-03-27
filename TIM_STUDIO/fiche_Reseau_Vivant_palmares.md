@@ -17,7 +17,7 @@ photo de l'ensemble de l'installation dans le studio
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/terminal_src_site_terminal_plan_implantation_2d.png)
 ![plantation3d](media/terminal_src_site_terminal_plan_implantation_2d.png)
-> source des deux images --> 
+> source des deux images --> *https://pythons-5.github.io/Terminal/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 - j'ai vraiment eu du fun à jouer a ce jeu, le fait que ce sois en équipe et que se sois punitif pour tout le monde rajoute du challenge.
 ---
