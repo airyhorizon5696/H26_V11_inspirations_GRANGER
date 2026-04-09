@@ -7,21 +7,20 @@
 ---
 ## Lieu de mise d'exposition 
 - Montmorency -  grand studio
- 
+
 ---
  
 ![christophe devant le cartel](media/devant_expo.jpg)
-> Moi devant le grand studio , photo prise par étudiant de TIM Montmorency
+> Moi devant le grand studio , photo prise par étudiant de TIM
  
 ---
 ## Type d'exposition
 Temporaire (intérieur)
-![Oeuvre en question]()
-> L'exposition "", photo prise par Christophe Granger
+
  
 ---
 ## Date de visite
-...
+- le 17 mars 2026
  
 ---
 ## Titre de L'oeuvre choisi
@@ -31,16 +30,16 @@ Temporaire (intérieur)
  
 ---
 ## Noms des créateurs et créatrices
-### ...
+### Meryk Bélisle,Ting Yung Lu Terry, Elie Daher, Mégane Rang et Dana Saavedra-Torrano 
  
 ---
 ## Année de réalisation
-Du  au 2026
+Du 16 au 20 mars 2026
  
 ---
 ## Description de l'oeuvre
- 
- 
+TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque joueur contrôle un opérateur, grâce à la manette sur leur téléphone, qui essaie de trouver l'accès au vieux réseau internet afin de restaurer les données qui ont été corrompues par une cyberattaque orchestrée par un fameux pirate informatique. Lorsque les joueurs vont se déplacer, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L’objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés dans le réseau par le pirate ou par les traces laissées par les autres. En cas d’élimination, tous les joueurs doivent recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant par exemple des boutons qui ouvrent des passages pour les autres, des obstacles mobiles et bien plus encore.
+> source description --> https://pythons-5.github.io/Terminal/#/
 ![Le derrière de l'oeuvre en question d'un point de vue rapprocher]()
 > Le derrière de l'exposition "TERMINAL" d'un point de vue rapproché, photo prise par Christophe Granger
  
@@ -68,10 +67,7 @@ Du  au 2026
 - Câbles vidéo (1): HDMI ou DisplayPort reliant le PC au projecteur.
 - Câbles audio (2): XLR pour relier la sortie audio aux haut-parleurs.
 - Câbles d’alimentation: Selon les haut-parleurs et le projecteur.
-- Multiprise / rallonge électrique – Pour alimenter l’ensemble du système.
- 
----
- 
+- Multiprise / rallonge électrique – Pour alimenter l’ensemble du système. 
 - Lumière Baton (2-4): Mettre de la lumière d'ambiance qui change avec une donné en boucle
 - Boite de lumière (1): Permet de brancher les lumière en daisy chain et les reliers à l'ordinateur
 - Ralonges pour lumières (2-4) Brancher les lumières mêmes si elles sont loins l'une et l'autre
