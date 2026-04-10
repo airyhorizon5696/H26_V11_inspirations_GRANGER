@@ -38,7 +38,8 @@ schéma de mise en espace (plantation ou implantation)
 ![plantation3d](media/oignon_src_site_oignon_plan_implantation_3d.jpg)
 > source des deux images --> *https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
--Malgtés le fait que c'était vraiment difficile de finir le jeux et que les contrôlle n'était pas préciser, je me suis quand même amuser a essayer d'esquiver les météorites et a me coordonner avec mes amis!
+- Avant: Malgrés le fait que c'était vraiment difficile de finir le jeux et que les contrôlle n'était pas préciser, je me suis quand même amuser a essayer d'esquiver les météorites et a me coordonner avec mes amis!
+- Après: Les contrôle on été améliorer et il y a eu des nouveaux niveaux le jeux était plus fluide et plus compréhensible, et il était tout aussi fun 
   
  
 ---
