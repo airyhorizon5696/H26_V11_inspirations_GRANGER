@@ -124,9 +124,12 @@ schéma de mise en espace (plantation ou implantation)
 ---
  
 ## Trois cour du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet
-- Programmation interactive
-- Web
-- Modelisation 3D
+### Programmation interactive 
+- La programmation est importante dans ce projet parce que ça aide à comprendre comment réfléchir pour créer quelque chose qui marche. On en a besoin pour développer tout le projet, passer des idées au concret et faire fonctionner les différentes parties. Sans programmation, le projet ne pourrait pas vraiment exister.
+### Web
+- Le web est important dans ce projet parce que le design d’interface permet de rendre le projet clair et agréable à utiliser. Le HTML et le CSS, qui sont la base pour moi, servent à construire et organiser le site. Ça aide aussi à mieux comprendre d’autres langages et programmes par la suite.
+### Modelisation 3D
+-La 3D est importante dans ce projet parce qu’elle permet de créer des visuels et des environnements en 3D. Ça aide à mieux représenter les lieux et à rendre le projet plus réaliste et immersif.
 
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
 -Les lasers, pour envoyer la coordoner des doigts dans le projet d'arbre en face 
