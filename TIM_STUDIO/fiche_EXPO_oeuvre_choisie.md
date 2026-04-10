@@ -83,12 +83,12 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
  
 ---
 ## Élément nécessaire à la mise d'exposition
--espace intérieur
--Lumière plafond American DJ
--Boules de connections de lumières (2): Faire tenir les lumières droites
--Mur
--Poufs gonflables
--Podium code Qr
+- espace intérieur
+- Lumière plafond American DJ
+- Boules de connections de lumières (2): Faire tenir les lumières droites
+- Mur
+- Poufs gonflables
+- Podium code Qr
 ---
 ![L'ensemble de l'oeuvre](media/vue_ensemble_terminal.jpg)
 > L'ensemble de l'oeuvre, photo prise par Christophe Granger
