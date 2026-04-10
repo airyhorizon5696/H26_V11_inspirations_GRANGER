@@ -108,6 +108,7 @@ Amira Tounekti et Kristy Moussally
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
 ![vue d'ensemble de l'oeuvre océan rouge](media/ocean_rouge_vue_ensemble.jpg)
+> photo de l'ensemble de l'oeuvre Océan Rouge - photo prise par R-B
 
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
