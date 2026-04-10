@@ -2,7 +2,7 @@
 
 
 ## Lieu de l’exposition
-
+- Centre des sciences Mtl
 
 ## Type d’exposition
 
