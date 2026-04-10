@@ -1,6 +1,5 @@
 #Terminal
 ---
-­![photo cartel exposition](TIM_STUDIO/media/noah_et_moi_devant_expo.jpg)
  
 > photo cartel exposition, photo prise par Christophe Granger
  
