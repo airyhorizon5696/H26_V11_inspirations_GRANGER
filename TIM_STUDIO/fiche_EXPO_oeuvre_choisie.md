@@ -40,14 +40,13 @@ Du 16 au 20 mars 2026
 ## Description de l'oeuvre
 TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque joueur contrôle un opérateur, grâce à la manette sur leur téléphone, qui essaie de trouver l'accès au vieux réseau internet afin de restaurer les données qui ont été corrompues par une cyberattaque orchestrée par un fameux pirate informatique. Lorsque les joueurs vont se déplacer, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L’objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés dans le réseau par le pirate ou par les traces laissées par les autres. En cas d’élimination, tous les joueurs doivent recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant par exemple des boutons qui ouvrent des passages pour les autres, des obstacles mobiles et bien plus encore.
 > source description --> https://pythons-5.github.io/Terminal/#/
-![Le derrière de l'oeuvre en question d'un point de vue rapprocher]()
-> Le derrière de l'exposition "TERMINAL" d'un point de vue rapproché, photo prise par Christophe Granger
+
  
 ---
 ## Type d'installation
 ### interactive
  
-![Oeuvre en question d'un point de vue rapprocher]()
+![Oeuvre en question d'un point de vue rapprocher](media/audio_terminal.jpg)
 > l'exposition "" d'un point de vue rapproché, photo prise par Christophe Granger
  christophe
 ---
@@ -87,8 +86,8 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 -espace intérieur
 -Lumière plafond American DJ
 -Boules de connections de lumières (2): Faire tenir les lumières droites
--mure
--Pouf gonflable
+-Mur
+-Poufs gonflables
 -Podium code Qr
 ---
 ![L'ensemble de l'oeuvre](media/vue_ensemble_terminal.jpg)
