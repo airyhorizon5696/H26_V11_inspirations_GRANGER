@@ -42,7 +42,7 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 ### interactive
  
 ![Oeuvre en question d'un point de vue rapprocher](media/audio_terminal.jpg)
-> l'exposition "" d'un point de vue rapproché, photo prise par Christophe Granger
+> l'exposition Terminal, speaker audio d'un point de vue rapproché, photo prise par Christophe Granger
  christophe
 ---
 ## mise en l'espace
