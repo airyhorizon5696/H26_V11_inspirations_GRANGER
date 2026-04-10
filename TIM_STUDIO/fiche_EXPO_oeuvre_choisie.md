@@ -76,11 +76,11 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
  
 ---
 ![Le derrière de l'oeuvre en question](media/vue_ensemble_derriere.jpg)
-> Le derrière de l'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapproché, photo prise par Christophe Granger
+> Le derrière de l'oeuvre "Terminal" d'un point de vue rapproché, photo prise par Christophe Granger
  
 ---
 ![Oeuvre en question de coté](media/vue_ensemble_cote.jpg)
-> L'ouevre "ENTRE MAINTENANT ET L'INFINI" de coté, photo prise par Christophe Granger
+> L''oeuvre "Terminal" de coté, photo prise par Christophe Granger
  
 ---
 ## Élément nécessaire à la mise d'exposition
@@ -98,13 +98,10 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 ![L'éclairage au plafonds](media/vue_ensemble_eclairage.jpg)
 > L'éclairage au plafonds, photo prise par Christophe Granger
  
----
-## Expérience vécu
-
  
 ---
-## Ce qui m'a plus
-- ce qui ma le plus plu c'est le fait que se sois en équipe et que si quelqu'un rate sa punis toute l'équipe, en effet le fait que tout le monde dépendant des autres rend l'expérience plus acrocheuse et j'ai vraiment aimer ça.
+## Ce qui m'a plus et expérience vécu
+- Mon expérience était vraiment fun, ça m’a rappelé le feeling que j’ai quand je joue à de bons jeux vidéo. Le niveau était assez complexe, donc c’était intéressant et challengeant. C’était aussi très punitif : si quelqu’un faisait une erreur, tout le monde pouvait en payer le prix, donc ça demandait beaucoup de coordination et d’attention.
  
 ---
 ## Ce que je ferais différement
