@@ -40,12 +40,8 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 ---
 ## Type d'installation
 ### interactive
- 
-![Oeuvre en question d'un point de vue rapprocher](media/audio_terminal.jpg)
-> l'exposition Terminal, speaker audio d'un point de vue rapproché, photo prise par Christophe Granger
- christophe
 ---
-## mise en l'espace
+## mise en espace
 ![image dessiné du croquis]()
 > image du croquis, créer par l'équipe TERMINAL
  
@@ -71,10 +67,7 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 ---
 ![Le derrière de l'oeuvre en question](media/vue_ensemble_derriere.jpg)
 > Le derrière de l'oeuvre "Terminal" d'un point de vue rapproché, photo prise par Christophe Granger
- 
----
-![Oeuvre en question de coté](media/vue_ensemble_cote.jpg)
-> L''oeuvre "Terminal" de coté, photo prise par Christophe Granger
+
  
 ---
 ## Élément nécessaire à la mise d'exposition
@@ -94,7 +87,9 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
  
  
 ---
-## Ce qui m'a plus et expérience vécu
+## Ce qui m'a plus
+- Ce que j’ai le plus apprécié, c’est à quel point l’expérience était engageante. Ça m’a donné un feeling similaire à quand je joue à des jeux vidéo vraiment bien faits. Le niveau demandait de la réflexion, ce qui rendait le défi plus intéressant. Le fait que ce soit assez strict, où une erreur pouvait affecter tout le monde, ajoutait de la pression, mais aussi un côté satisfaisant quand tout fonctionnait bien.
+## Expérience vécu
 - Mon expérience était vraiment fun, ça m’a rappelé le feeling que j’ai quand je joue à de bons jeux vidéo. Le niveau était assez complexe, donc c’était intéressant et challengeant. C’était aussi très punitif : si quelqu’un faisait une erreur, tout le monde pouvait en payer le prix, donc ça demandait beaucoup de coordination et d’attention.
  
 ---
