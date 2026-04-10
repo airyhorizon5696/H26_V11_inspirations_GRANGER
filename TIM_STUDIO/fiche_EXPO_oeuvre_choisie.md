@@ -20,7 +20,7 @@ Temporaire (intérieur)
 ---
 ## Titre de L'oeuvre choisi
 ### Terminal
-![Totalité du cartel]()
+![Totalité du cartel](media/terminal_cartel.jpg)
 > Totalité du cartel, photo prise par Christophe Granger
  
 ---
