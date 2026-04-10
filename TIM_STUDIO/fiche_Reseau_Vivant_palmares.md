@@ -72,7 +72,7 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani et Rafael Ang
 ### Installation en cours (ou finale)
 photo de l'ensemble de l'installation dans le studio
 ![vue ensemble arbre en arbre](media/arbrenarbre_vue_ensemble.jpg)
-> photo de l'ensemble de l'oeuvre arbre en face
+> photo de l'ensemble de l'oeuvre arbre en face - photo prise par NYC
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/arbreenarbre_src_site_arbreenarbre_plan_implantation_2d.jpg)
@@ -123,7 +123,7 @@ schéma de mise en espace (plantation ou implantation)
 
 ---
  
-## Trois cour du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet
+## Trois cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet
 ### Programmation interactive 
 - La programmation est importante dans ce projet parce que ça aide à comprendre comment réfléchir pour créer quelque chose qui marche. On en a besoin pour développer tout le projet, passer des idées au concret et faire fonctionner les différentes parties. Sans programmation, le projet ne pourrait pas vraiment exister.
 ### Web
