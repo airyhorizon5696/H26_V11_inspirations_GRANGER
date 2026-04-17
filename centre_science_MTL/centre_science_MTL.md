@@ -1,5 +1,5 @@
 # Titre de l’exposition
-- Codes des ombres
+- Explore
 
 ## Lieu de l’exposition
 - Centre des sciences Mtl
@@ -8,19 +8,28 @@
 > moi devant l'exposition du centre des science - photo prise par R-B
 
 ## Type d’exposition
-- Intérieure, temporaire 
+- Intérieure, permanente
 
 ## Date de visite
 - 1e Avril
 
-## Titre de l’œuvre ou du dispositif
+## Titre du dispositif
 - Codes des ombres ou Language des ordinateurs 
 
-## Description de l'oeuvre ou du dispositif
-- Codes des ombres est un dispositif ou peut importe notre age. pouvons coder et transformer ce code en lumière. Il y a un écran avec une page blanche ou l'on peu glisser des bout de codes pour changer la rotation des engrenages, le temps et la vittesse, je trouve que c'est un bon moyen d'apprendre la programmation au plus jeune sans se casser la tête, de plus le dispositif est vraiment très accessible pour tout les age et tout les condition physique, il y a un espace vide en bas de l'écran pour les perosnne en fauteuille roulant et l'écran se trouve a un bas niveau pour les plus petit.
+
+![](./media/vue_ensemble.jpg)
+> vu ensmeble cg 
+## Description du dispositif
+- Codes des ombres est un dispositif ou peut importe notre age. nous pouvons coder et transformer ce code en lumière. Il y a un écran avec une page blanche ou l'on peu glisser des bout de codes pour changer la rotation des engrenages, le temps et la vittesse, je trouve que c'est un bon moyen d'apprendre la programmation au plus jeune sans se casser la tête, de plus le dispositif est vraiment très accessible pour tout les age et tout les condition physique, il y a un espace vide en bas de l'écran pour les perosnne en fauteuille roulant et l'écran se trouve a un bas niveau pour les plus petit. 
+
+plateau figurine ombre lumiere 
+
+
+enlever ce que je pense
 
 ![écran](./media/ecran_programme.jpg)
-## Nom de l’artiste ou de la firme
+> écran vcg
+## Nom de la firme
 - Ubisoft 
 - Elisabeth Doyon - programmeuse généraliste - chercheuse en informatique cognitive - Generalist Programmer - Cognitive Computing Researcher
 
@@ -30,7 +39,7 @@
 > photo des crédit de l'oeuvre - centre des sciences zone interactive - photo prise par Christophe Granger
 
 ## Année de réalisation
-- 2026
+- 
 
 ## Type d’installation
 - Interactive
@@ -39,11 +48,23 @@
 ![dessin de la mise en espace]()
 
 ## Composantes et techniques
-- un ordinateur, des lumieres, fils électrique, ventilation,
+- un ordinateur
+- écran tactile
+- composantes électrique
+- des lumieres
+- fils électrique
+- ventilation
+-moteur 
+projecteur 
+
+
 ![](media/composante_technique.jpg)
 
 ## Éléments nécessaires à la mise en exposition
+- boitier pour la 
+- boitier pour l'écran
 - 
 
 ## Mon expériences
 - Franchement, j’ai vraiment aimé l’expérience. C’était interactif et ça change des expos normales où tu fais juste regarder. Le mélange entre l’art et la techno est super bien fait, c’est pas quelque chose qu’on voit souvent. En plus, c’est facile à comprendre pour tout le monde, peu importe l’âge. C’est simple, original et vraiment réussi.
+
