@@ -1,14 +1,13 @@
 # Compte-rendu : Les dispositifs multimédias au Musée de l'ingéniosité J. Armand Bombardier
 
-## Introduction
-Dans le cadre de cette conférence, Martin Boucher, technicien multimédia au Musée de l'ingéniosité J. Armand Bombardier à Valcourt, a présenté les coulisses de son métier. Son intervention portait sur le contexte de réalisation, la mise en exposition et le fonctionnement des dispositifs interactifs qui enrichissent les salles de l'exposition permanente.
 
+durant cette conférence, Martin Boucher qui est technicien multimédia au musée de l'ingéniosité J. Armand Bombardier à Valcourt nous a raconter son métier pis comment ça ce passait dans les coulisses. Il nous a parler du contexte de réalisation, la mise en exposition et le fonctionnement de dispositifs multiméa.
 ## Les grandes idées de la présentation
-Lors de sa présentation, M. Boucher a mis en lumière l'évolution de l'entreprise, rappelant notamment son implication majeure dans le développement des transports en commun, comme la conception des célèbres wagons du métro de la STM. Pour illustrer cet héritage impressionnant, le musée s'appuie sur des dispositifs multimédias qui se démarquent par leur grande interactivité et la beauté de leurs interfaces. 
+Pendant sa présentation, il nous a expliqué l'histoire de l'entreprise, en rappelant par exemple que Bombardier a participé à la fabrication des wagons du métro de la STM. Pour mettre ce grand héritage en valeur, le musée utilise des installations qui se démarquent parce qu'elles sont vraiment belles et super interactives. 
 
-Le conférencier a d'ailleurs souligné que la création de ces installations interactives ne se fait pas en vase clos : elle requiert la convergence de multiples branches de connaissances. Faire vivre une telle exposition demande en effet une synergie constante entre les experts en histoire, en ingénierie, en design d'interface et en programmation.
+M. Boucher nous a aussi fait comprendre que pour créer ces dispositifs-là, ça prend plein de branches de connaissances différentes. Il ne s'agit pas juste de coder : ça demande un vrai travail d'équipe entre des experts en histoire, en ingénierie, en design et en programmation pour que l'interface fonctionne bien et soit agréable à utiliser.
 
-![Légende : Dispositif interactif du musée. (Source : Site web du Musée de l'ingéniosité J. Armand Bombardier)](nom_de_ton_fichier_image.jpg)
+![Légende : Dispositif interactif présenté lors de la conférence. (Source : Site web du Musée de l'ingéniosité J. Armand Bombardier)](nom_de_ton_fichier_image.jpg)
 
 ## Appréciation de la conférence
-En conclusion, cette conférence démontre parfaitement la réalité concrète de l'intégration multimédia. L'importance accordée à l'esthétique et à l'expérience utilisateur confirme que la technique doit toujours être au service du contenu. De plus, voir comment différentes expertises se rejoignent pour créer un projet final fluide et engageant est une véritable source de motivation pour nos futures réalisations professionnelles.
+En conclusion, on a vraiment apprécié cette rencontre parce qu'elle nous montre à quoi ressemble concrètement le travail sur le terrain. C'était très intéressant de voir que la technique est toujours là pour rendre l'expérience belle et amusante pour le visiteur. Comprendre comment toutes ces différentes expertises se mélangent pour donner un résultat final aussi interactif, c'est vraiment motivant pour les projets qu'on fera plus tard.
