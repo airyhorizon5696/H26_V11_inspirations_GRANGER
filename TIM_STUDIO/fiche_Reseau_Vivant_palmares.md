@@ -11,16 +11,15 @@
 
  
 ### Installation en cours (ou finale)
-photo de l'ensemble de l'installation dans le studio
 ![photo de l'ensemble de l'installation dans le studio](media/vue_ensemble_terminal.jpg)
 > photo de l'ensemble de l'oeuvre terminal - photo prise par moi 
 ### Schéma de l'installation prévue
-schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/terminal_src_site_terminal_plan_implantation_2d.png)
 ![plantation3d](media/terminal_src_site_terminal_plan_implantation_2d.png)
 > source des deux images --> *https://pythons-5.github.io/Terminal/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 - j'ai vraiment eu du fun à jouer a ce jeu, le fait que ce sois en équipe et que se sois punitif pour tout le monde rajoute du challenge.
+- apres: j'ai ressentie la meme chose que avant. C'était toujours aussi amusant et punitif. Le fait que desniveaux on été ajouté a renu mon experience plus immersif. 
 ---
  
 ## Mission décollage ( O.I.G.N.I.O.N )
@@ -39,7 +38,7 @@ schéma de mise en espace (plantation ou implantation)
 > source des deux images --> *https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 - Avant: Malgrés le fait que c'était vraiment difficile de finir le jeux et que les contrôlle n'était pas préciser, je me suis quand même amuser a essayer d'esquiver les météorites et a me coordonner avec mes amis!
-- Après: Les contrôle on été améliorer et il y a eu des nouveaux niveaux le jeux était plus fluide et plus compréhensible, et il était tout aussi fun 
+- Après: Les contrôle on été améliorer et il y a eu des nouveaux niveaux le jeux était plus fluide et plus compréhensible, et il était tout aussi fun
   
  
 ---
@@ -61,7 +60,8 @@ schéma de mise en espace (plantation ou implantation)
 > source des deux images --> *https://les-chimistes.github.io/symbiose/#/technique/*
 
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
-- Encore une fois, même si il y a certain bug, j'ai bien aimer le fait que que ce sois en équipes et qu'il faut coopérer, le fait qu'il y est un timer ça rajoute de la compétion. J'ai aussi trouver que l'idée ce dermaquais des plusieurs projet que j'ai vu!
+- avant: meme si il y avait dws bug, j'ai bien aimer le fait que que ce sois en équipes et qu'il faut coopérer, le fait qu'il y est un timer ça rajoute de la compétion. J'ai aussi trouver que l'idée ce dermaquais des plusieurs projet que j'ai vu!
+- apres:  Encore une fois, même si il y a certain bug et que rien n'a vraiment changer dans l'interface. 
 
 ---
  
