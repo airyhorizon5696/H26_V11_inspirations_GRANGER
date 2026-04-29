@@ -18,7 +18,7 @@
 ![plantation3d](media/terminal_src_site_terminal_plan_implantation_2d.png)
 > source des deux images --> *https://pythons-5.github.io/Terminal/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
-- j'ai vraiment eu du fun à jouer a ce jeu, le fait que ce sois en équipe et que se sois punitif pour tout le monde rajoute du challenge.
+- avant: j'ai vraiment eu du fun à jouer a ce jeu, le fait que ce sois en équipe et que se sois punitif pour tout le monde rajoute du challenge.
 - apres: j'ai ressentie la meme chose que avant. C'était toujours aussi amusant et punitif. Le fait que desniveaux on été ajouté a renu mon experience plus immersif. 
 ---
  
@@ -61,7 +61,7 @@ schéma de mise en espace (plantation ou implantation)
 
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 - avant: meme si il y avait dws bug, j'ai bien aimer le fait que que ce sois en équipes et qu'il faut coopérer, le fait qu'il y est un timer ça rajoute de la compétion. J'ai aussi trouver que l'idée ce dermaquais des plusieurs projet que j'ai vu!
-- apres:  Encore une fois, même si il y a certain bug et que rien n'a vraiment changer dans l'interface. 
+- apres:  Encore une fois, même si il y a certain bug et que rien n'a vraiment changer dans l'interface. Le fait que des piédestaux on été installé pour faciliter l'accessibilité et qu'on puisse jouer debout rend le tout plus immersif. De plus les créateurs on changer leur boutons et leur manivelle ce que je trouve plus beau.  
 
 ---
  
@@ -80,7 +80,8 @@ schéma de mise en espace (plantation ou implantation)
 ![plantation3d](media/arbreenarbre_src_site_arbreenarbre_plan_implantation_3d.jpg)
 > source des deux images --> *https://mammouths.github.io/projet/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
- - au début j'ai eu beaucoup de difficulté a comprendre le mécanismes deriere, avant qu'on me le dise. J'ai trouver que c'était vraiment originale, c'était la premiere fois que je voyais ce genre de technologie, et même ajourdh'ui je trouve que l'aspect technologique qu'il on utiliser est fascinant.
+ - au début j'ai eu beaucoup de difficulté a comprendre le mécanismes deriere, avant qu'on me le dise. J'ai trouver que c'était vraiment originale, c'était la premiere fois que je voyais ce genre de technologie. 
+ -  même aujourd'hui je trouve que l'aspect technologique qu'il on utiliser est fascinant. mon opi
 ---
  
 ## Quand les yeux se croisent
