@@ -50,7 +50,6 @@ Yannick Chamberland, Benjamin Ferland et Walid Cheour
 
 
 ### Installation en cours (ou finale)
-photo de l'ensemble de l'installation dans le studio
 ![vue d'ensemble ](media/symbiose_vue_ensemble.jpg)
 > photo de l'ensemble de l'oeuvre symbiose - photo prise par NCY
 ### Schéma de l'installation prévue
@@ -71,7 +70,6 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani et Rafael Ang
  
 
 ### Installation en cours (ou finale)
-photo de l'ensemble de l'installation dans le studio
 ![vue ensemble arbre en arbre](media/arbrenarbre_vue_ensemble.jpg)
 > photo de l'ensemble de l'oeuvre arbre en face - photo prise par NYC
 ### Schéma de l'installation prévue
@@ -81,7 +79,7 @@ schéma de mise en espace (plantation ou implantation)
 > source des deux images --> *https://mammouths.github.io/projet/#/technique/*
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
  - au début j'ai eu beaucoup de difficulté a comprendre le mécanismes deriere, avant qu'on me le dise. J'ai trouver que c'était vraiment originale, c'était la premiere fois que je voyais ce genre de technologie. 
- -  même aujourd'hui je trouve que l'aspect technologique qu'il on utiliser est fascinant. mon opi
+ -  même aujourd'hui je trouve que l'aspect technologique qu'il on utiliser est fascinant. mon opinion reste que c'est beau et original mais sans plus.  
 ---
  
 ## Quand les yeux se croisent
@@ -91,9 +89,8 @@ Manel Yaya, Edelwyn Ledru, Félix Lavoie, Jade Hébert, et Patricia Nassif
  
 ---
 ### Installation en cours (ou finale)
-photo de l'ensemble de l'installation dans le studio
-![vue ensemble de l'oeuvre quand les yeux se croiser](media/vue_d'esemble_yeux_croise.jpg)
-
+![vue ensemble de l'oeuvre quand les yeux se croise](media/vue_d'esemble_yeux_croise.jpg)
+> vu d'esemble de l'oeuvre quand les yeux se croise - photo prise par C-G
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/quand_les_yeux_se_croise_src_site_quand_les_yeux_se_croise_plan_implantation_2d.jpeg)
@@ -108,7 +105,7 @@ Amira Tounekti et Kristy Moussally
  
 
 ### Installation en cours (ou finale)
-photo de l'ensemble de l'installation dans le studio
+
 ![vue d'ensemble de l'oeuvre océan rouge](media/ocean_rouge_vue_ensemble.jpg)
 > photo de l'ensemble de l'oeuvre Océan Rouge - photo prise par R-B
 
