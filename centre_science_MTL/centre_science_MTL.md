@@ -25,7 +25,7 @@
 
 
 ![écran](./media/ecran_programme.jpg)
-> écran vcg
+> vu d'esensemble de l'écran -- photo prise par C-G
 ## Nom de la firme
 - Ubisoft 
 - Elisabeth Doyon - programmeuse généraliste - chercheuse en informatique cognitive - Generalist Programmer - Cognitive Computing Researcher
