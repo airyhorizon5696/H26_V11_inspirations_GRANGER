@@ -14,6 +14,7 @@
 ![photo de l'ensemble de l'installation dans le studio](media/vue_ensemble_terminal.jpg)
 > photo de l'ensemble de l'oeuvre terminal - photo prise par moi 
 ### Schéma de l'installation prévue
+schéma de mise en espace (plantation ou implantation)
 ![plantation2d](media/terminal_src_site_terminal_plan_implantation_2d.png)
 ![plantation3d](media/terminal_src_site_terminal_plan_implantation_2d.png)
 > source des deux images --> *https://pythons-5.github.io/Terminal/#/technique/*
@@ -28,7 +29,6 @@ Jad Saloumi, Ahmed Kaissoumi,  Thearylou Lach, Radhouane Kordan et Justin Montpe
 
 
 ### Installation en cours (ou finale)
-photo de l'ensemble de l'installation dans le studio
 ![vue ensemble](media/oignon_vue_ensemble.jpg)
 > photo de l'ensemble de l'oeuvre oignon - photo prise par NCY
 ### Schéma de l'installation prévue
@@ -70,7 +70,7 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani et Rafael Ang
  
 
 ### Installation en cours (ou finale)
-![vue ensemble arbre en arbre](media/arbrenarbre_vue_ensemble.jpg)
+![vue ensemble arbre en face](media/arbrenarbre_vue_ensemble.jpg)
 > photo de l'ensemble de l'oeuvre arbre en face - photo prise par NYC
 ### Schéma de l'installation prévue
 schéma de mise en espace (plantation ou implantation)
