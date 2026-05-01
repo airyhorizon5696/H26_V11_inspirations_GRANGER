@@ -43,7 +43,7 @@
 
 ![photo du croquis](media/croquis.jpg)
 
-> Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même
+> Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, les 3 projecteurs, le lit, le socle, les écouteurs et l'utérus haptique en silocone - réaliser par moi même
 
 ### Composante et technique :
 - vidéo mapping que les projecteur projet sur le mur, les images des projecteurs sont relié au son et au vibration qu'émet l'utérus haptique en silicone, par exemple, quand il y a un gros son, comme le chant d'une baleine, les vibration vont êtres plus forte.
