@@ -43,7 +43,7 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 ---
 ## mise en espace
 ![image dessiné du croquis]()
-> image du croquis, créer par l'équipe TERMINAL
+> image du croquis, créer par moi même
  
 ---
 ## Composante et technique 
@@ -63,7 +63,7 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 - Ralonges pour lumières (2-4) Brancher les lumières mêmes si elles sont loins l'une et l'autre
 - Power supply pour boite à lumière: Donner le power à la boite à lumières
 - Carte graphique extérieur (1): Pour projeter les données vers les couleurs de lumières
- 
+ > selon l'équipe de création deriere Terminal 
 ---
 ![Le derrière de l'oeuvre en question](media/vue_ensemble_derriere.jpg)
 > Le derrière de l'oeuvre "Terminal" d'un point de vue rapproché, photo prise par Christophe Granger
