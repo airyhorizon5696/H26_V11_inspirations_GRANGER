@@ -18,7 +18,8 @@
 
 
 ### Nom de l’artiste ou de la firme
-- Alexandre Boyes
+- Keiken
+- - c'est un collectif de 3 artiste 
 
 
 ### Année de la réalisation 
@@ -45,15 +46,17 @@
 > Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, le projecteur et tout les autres éléments - réaliser par moi même
 
 ### Composante et technique :
-- Des projecteurs, les images des projecteurs sont relié au son et au vibration, par exemple, quand un gros son, comme le chant d'une baleine, les vibration vont êtres plus forte.
+- vidéo mapping que les projecteur projet sur le mur, les images des projecteurs sont relié au son et au vibration qu'émet l'utérus haptique en silicone, par exemple, quand il y a un gros son, comme le chant d'une baleine, les vibration vont êtres plus forte.
 ### Éléments nécessaires à la mise en exposition 
 - Murs
 - Structure en métal en soutient pour les éclairages et projecteurs
-- Un "lit" pour se coucher (fait avec des genre boulles de cotons)
-- Des projecteurs
+- Un lit pour se coucher (fait de tissu bois et coussins)
+- Vidéo numréqiue (Vidéo mapping)
 - Un ordinateur
 - Des écouteurs
-- Un vibrateur resemblant a une carapace de tortu a mettre sur son ventre
+- Un utérus haptique en silicone
+- Socle
+- Plateforme
   
 ![photo "lit"](media/vue_ensemble_lit.jpg)
 
@@ -63,19 +66,19 @@
 
 > Projecteur, qui projette les images imersif sur les murs - photo prise par moi
 
-![photo du croquis](media/procéder_technique_vibrateur.jpg)
+![Utérus haptique en silicone](media/procéder_technique_vibrateur.jpg)
 
-> L'objet en silicone a mettre sur son ventre, qui réagis avec des vibrations en même temps que les son du casque - photo prise par moi
+> Utérus haptique en silicone, a mettre sur son ventre, qui réagis avec des vibrations en même temps que les son du casque - photo prise par moi
 
 
 ![socle et casque ](media/socle_casque.jpg)
 
-> Le socle suportant le casque d'écoute et la patente a mettre sur son ventre - photo prise par moi
+> Le socle suportant le casque d'écoute et l'utérus haptique en silicone a mettre sur son ventre - photo prise par moi
 
 
 ### Mon expérience
 - J'ai adorer mon expérience, le sujet que traitais l'expo est un sujet que j'aime bien, les jeux vidéos et les expériences immersive, de plus le personnel était très acceuillant.
-- Ce qui ma le plus  plu c'est l'exposition que j'ai choisis car c'était la première fois que je fesait une expérience de ce genre, être complêtement ensevli par du son, coucher et une genre de carapace de tortu sur le ventre qui envoie des vibration au rytme des sons, tout ça avec des projections au mur qui rendais tout plus imersif.
+- Ce qui ma le plus  plu c'est l'exposition que j'ai choisis car c'était la première fois que je fesait une expérience de ce genre, être complêtement ensevli par du son, coucher et une genre de carapace de tortue sur le ventre qui envoie des vibration au rytme des sons, tout ça avec des projections au mur qui rendais tout plus imersif.
 - En conclusion j'ai aimé ma sortie et je recommande.
 
 
