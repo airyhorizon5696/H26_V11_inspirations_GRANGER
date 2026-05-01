@@ -36,7 +36,7 @@
 > photo des crédit de l'oeuvre - centre des sciences zone interactive - photo prise par Christophe Granger
 
 ## Année de réalisation
-- 
+- 28 novembre 2019
 
 ## Type d’installation
 - Interactive
@@ -66,3 +66,6 @@
 ## Mon expériences
 - Franchement, j’ai vraiment aimé l’expérience. C’était interactif et ça change des expos normales où tu fais juste regarder. Le mélange entre l’art et la techno est super bien fait, c’est pas quelque chose qu’on voit souvent. En plus, c’est facile à comprendre pour tout le monde, peu importe l’âge. C’est simple, original et vraiment réussi.je trouve que c'est un bon moyen d'apprendre la programmation au plus jeune sans se casser la tête, de plus le dispositif est vraiment très accessible pour tout les age et tout les condition physique, il y a un espace vide en bas de l'écran pour les perosnne en fauteuille roulant et l'écran se trouve a un bas niveau pour les plus petit.
 
+## Source
+- https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+- https://www.vieuxportdemontreal.com/sites/default/files/29751-vp-guide_besoin_particulier_csm_fr_final-s_1.pdf?_gl=1*yzhlff*_gcl_au*MTI0NTg4MDk0Mi4xNzc3NjU0ODY5*_ga*MTYzMzU4MjgzOC4xNzc3NjU0ODY5*_ga_H22CRNZ3Q1*czE3Nzc2NTQ4NjkkbzEkZzEkdDE3Nzc2NTQ4ODYkajQzJGwwJGgw
