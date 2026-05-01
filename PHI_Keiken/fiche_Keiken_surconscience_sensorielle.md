@@ -2,10 +2,10 @@
 
 
 ### Lieux de mise en exposition
-- L'exposition se déroule a la fondatio Phi au 465, rue Saint-Jean pour être plus exacte.
+- L'exposition se déroule a la Fondation PHI au 465, rue Saint-Jean pour être plus exacte.
 ![moi devant la galerie](media/moi_devant_exposition.jpg)
 
-> moi et un inconnu devant l'expositon - photo prise par M-G
+> Un inconnu et moi devant l'expositon - photo prise par M-G
 
 ### Type d’exposition
 - Temporaire et intérieur. du 23 oct. au 8 mars 2026
@@ -19,44 +19,44 @@
 
 ### Nom de l’artiste ou de la firme
 - Keiken
-- - c'est un collectif de 3 artiste 
+- c'est un collectif de 3 artiste 
 
 
 ### Année de la réalisation 
 -  2024
 
 ### Description de l'œuvre ou du dispositif
-- En premier lieu, lorsqu'on arrive dans la salle, un/une employé(e)s nous indique de nous installer sur le "lit" et on nous met un casque sur les oreilles et la carapace de tortue em silicone qui vibre sur le ventre. Dès que c'est fait on est directement immersé dans l'univers de l'oeuvre, les projections sur le mur qui resssemble a des vagues, les sons qui ressemble a des chants de baleines. Durant ses 2 minutes (ou plus si vous décider de rester plus longtemps) les projections sur le mur bleu vont enomrément se déplacer, mais lentement. Les vibrations vont suivre le ryhtmes des sons pour te transporter dans un autre monde qui n'est pas vraiment descrivable, car je pense qu'il faut vraiment le vivre pour le comprendre.
+- À notre arrivée dans la salle, un membre du personnel nous invite à nous installer sur le lit. On nous met ensuite des écouteurs et l'on place l'utérus haptique en silicone sur notre ventre. Dès cet instant, nous sommes directement immergés dans l'univers de l'œuvre. Les projections de vidéo mapping sur les murs ressemblent à des vagues, et le paysage sonore s'apparente à des chants de baleines. Durant ces deux minutes (ou plus si l'on décide de prolonger l'expérience), les projections sur les murs bleus se déplacent dans otut les sens, lentement. Les vibrations suivent le rythme du paysage sonore pour nous transporter dans un autre monde difficilement descriptible. Je pense qu'il faut véritablement vivre cette expérience pour bien comprendre.
 
 ![cartel](media/cartel.jpg)
 
-> Cartel de l'oeuvre Alexandre Boyes - photo prise par moi même
+> Cartel de l'oeuvre de Keiken - photo prise par moi même
 
 ### Type d’installation 
 -  Immersive et interactive
 
  ![vue d'ensemble](media/vue_ensemble.jpg)
  
-> Vu d'emsemble de l'oeuvre de Alexandre Boyes
+> Vu d'emsemble de l'oeuvre du collectif d'artiste Keiken
 ### Mise en espace 
 - Un dessin représentant l'oeuvre dans la piece:
 
 ![photo du croquis](media/croquis.jpg)
 
-> Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, les 3 projecteurs, le lit, le socle, les écouteurs et l'utérus haptique en silocone - réaliser par moi même
+> Dessin de l'oeuvre Spirit Systems of Soft Knowing, montrant le plan, les lumières, les 3 projecteurs, le lit, le socle, les écouteurs et l'utérus haptique en silicone - réaliser par moi même
 
 ### Composante et technique :
-- vidéo mapping que les projecteur projet sur le mur, les images des projecteurs sont relié au son et au vibration qu'émet l'utérus haptique en silicone, par exemple, quand il y a un gros son, comme le chant d'une baleine, les vibration vont êtres plus forte.
+- La vidéo numérique (vidéo mapping)
+- Le paysage sonore (la trame sonore)
+- L'utérus haptique en silicone
+- Le lit fait de tissu, bois et coussins
 ### Éléments nécessaires à la mise en exposition 
-- Murs
-- Structure en métal en soutient pour les éclairages et projecteurs
-- Un lit pour se coucher (fait de tissu bois et coussins)
-- Vidéo numréqiue (Vidéo mapping)
-- Un ordinateur
-- Des écouteurs
-- Un utérus haptique en silicone
-- Socle
-- Plateforme
+- Les 3 projecteurs
+- La plateforme
+- Le socle (pour l'utérus haptique en silicone)
+- Les écouteurs
+- L'ordinateur
+- La structure en métal et les murs
   
 ![photo "lit"](media/vue_ensemble_lit.jpg)
 
@@ -77,9 +77,9 @@
 
 
 ### Mon expérience
-- J'ai adorer mon expérience, le sujet que traitais l'expo est un sujet que j'aime bien, les jeux vidéos et les expériences immersive, de plus le personnel était très acceuillant.
-- Ce qui ma le plus  plu c'est l'exposition que j'ai choisis car c'était la première fois que je fesait une expérience de ce genre, être complêtement ensevli par du son, coucher et une genre de carapace de tortue sur le ventre qui envoie des vibration au rytme des sons, tout ça avec des projections au mur qui rendais tout plus imersif.
-- En conclusion j'ai aimé ma sortie et je recommande.
+- J'ai adoré mon expérience. Le sujet que traitait l'exposition rejoint mes intérêts, comme les jeux vidéo et les environnements immersifs. De plus, le personnel était très accueillant.
+- Ce qui m'a le plus plu dans l'œuvre que j'ai choisie, c'est que c'était ma première expérience de ce genre : être complètement enveloppé par le son, couché avec l'utérus haptique en silicone sur le ventre qui envoie des vibrations au rythme du paysage sonore. Le tout combiné aux projections sur les murs rendait l'expérience incroyablement immersive.
+- En conclusion, j'ai beaucoup aimé ma sortie et je la recommande.
 
 
 ### Référence
